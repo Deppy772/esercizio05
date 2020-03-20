@@ -1,1 +1,1 @@
-Questo è il mio documento in cui il file principale è il file **main.py** dove chiedo in input un numero intero e ne stampo il doppio.
+Questo è il mio documento in cui il file principale è il file **main.py** dove chiedo in input un numero intero e ne stampo il triplo.
